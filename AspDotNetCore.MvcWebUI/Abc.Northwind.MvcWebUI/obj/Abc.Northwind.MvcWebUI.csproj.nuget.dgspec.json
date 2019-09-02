@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Abc\\Abc.Northwind.MvcWebUI\\Abc.Northwind.MvcWebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj",
+        "projectName": "Abc.Core",
+        "projectPath": "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj",
+        "packagesPath": "C:\\Users\\ferdi.tuccar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Abc\\Abc.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferdi.tuccar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\Abc\\Abc.Northwind.Bussines\\Abc.Northwind.Bussines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Abc\\Abc.Northwind.Bussines\\Abc.Northwind.Bussines.csproj",
+        "projectName": "Abc.Northwind.Bussines",
+        "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.Bussines\\Abc.Northwind.Bussines.csproj",
+        "packagesPath": "C:\\Users\\ferdi.tuccar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Abc\\Abc.Northwind.Bussines\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferdi.tuccar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
+                "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj"
+              },
+              "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+        "projectName": "Abc.Northwind.DataAccess",
+        "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.DataAccess\\Abc.Northwind.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ferdi.tuccar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Abc\\Abc.Northwind.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferdi.tuccar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj": {
+                "projectPath": "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj"
+              },
+              "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
+                "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj",
+        "projectName": "Abc.Northwind.Entities",
+        "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.Entities\\Abc.Northwind.Entities.csproj",
+        "packagesPath": "C:\\Users\\ferdi.tuccar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Abc\\Abc.Northwind.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferdi.tuccar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj": {
+                "projectPath": "C:\\Projects\\Abc\\Abc.Core\\Abc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Projects\\Abc\\Abc.Northwind.MvcWebUI\\Abc.Northwind.MvcWebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Abc\\Abc.Northwind.MvcWebUI\\Abc.Northwind.MvcWebUI.csproj",
+        "projectName": "Abc.Northwind.MvcWebUI",
+        "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.MvcWebUI\\Abc.Northwind.MvcWebUI.csproj",
+        "packagesPath": "C:\\Users\\ferdi.tuccar\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Abc\\Abc.Northwind.MvcWebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ferdi.tuccar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Projects\\Abc\\Abc.Northwind.Bussines\\Abc.Northwind.Bussines.csproj": {
+                "projectPath": "C:\\Projects\\Abc\\Abc.Northwind.Bussines\\Abc.Northwind.Bussines.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

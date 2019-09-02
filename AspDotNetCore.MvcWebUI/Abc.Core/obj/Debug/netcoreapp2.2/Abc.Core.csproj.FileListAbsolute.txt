@@ -1,0 +1,11 @@
+C:\Projects\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Core.deps.json
+C:\Projects\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Core.dll
+C:\Projects\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+C:\Projects\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.AssemblyInfoInputs.cache
+C:\Projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.AssemblyInfo.cs
+C:\Projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.csproj.CopyComplete
+C:\Projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.dll
+C:\Projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.pdb

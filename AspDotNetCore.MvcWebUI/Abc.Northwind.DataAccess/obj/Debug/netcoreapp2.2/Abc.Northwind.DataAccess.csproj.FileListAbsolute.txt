@@ -1,0 +1,14 @@
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.deps.json
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.dll
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.pdb
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Core.dll
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.dll
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+C:\Projects\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.pdb
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.AssemblyInfo.cs
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.csproj.CopyComplete
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.dll
+C:\Projects\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.pdb

@@ -1,0 +1,16 @@
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.Bussines.deps.json
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.Bussines.dll
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.Bussines.pdb
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Core.dll
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.dll
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.dll
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.pdb
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.pdb
+C:\Projects\Abc\Abc.Northwind.Bussines\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.csprojAssemblyReference.cache
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.csproj.CoreCompileInputs.cache
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.AssemblyInfoInputs.cache
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.AssemblyInfo.cs
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.csproj.CopyComplete
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.dll
+C:\Projects\Abc\Abc.Northwind.Bussines\obj\Debug\netcoreapp2.2\Abc.Northwind.Bussines.pdb

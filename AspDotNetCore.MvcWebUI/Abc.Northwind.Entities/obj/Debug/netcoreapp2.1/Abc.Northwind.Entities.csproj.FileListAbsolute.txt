@@ -1,0 +1,14 @@
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.deps.json
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.dll
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Abc.Northwind.Entities.pdb
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Abc.Core.dll
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Abc.Core.pdb
+C:\Projects\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.csprojAssemblyReference.cache
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.AssemblyInfo.cs
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.csproj.CopyComplete
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.dll
+C:\Projects\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.1\Abc.Northwind.Entities.pdb
